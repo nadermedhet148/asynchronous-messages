@@ -8,3 +8,4 @@ This repository is a playground for different messaging systems techniques
 - Worker queues
 - pub/sub
 - Direct-Routing
+- Topic-Routing

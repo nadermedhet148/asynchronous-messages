@@ -1,3 +1,5 @@
+package DirectRouting;
+
 import com.rabbitmq.client.*;
 
 public class DirectReceive {

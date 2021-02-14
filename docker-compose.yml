@@ -1,0 +1,12 @@
+version: "3"
+services:
+  rabbitmq:
+    image: rabbitmq:3.8.9-alpine
+    container_name: rabbitmq-source
+    environment:
+      - RABBITMQ_DEFAULT_USER=root
+      - RABBITMQ_DEFAULT_PASS=root
+      - RABBITMQ_ERLANG_COOKIE=cookie
+    ports:
+      - "5672:5672"
+      - "15672:15672"

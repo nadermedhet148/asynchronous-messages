@@ -6,3 +6,4 @@ This repository is a playground for different messaging systems techniques
 ---------------------------
 - simple send and receive 
 - Worker queues
+- pub/sub

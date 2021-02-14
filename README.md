@@ -9,3 +9,4 @@ This repository is a playground for different messaging systems techniques
 - pub/sub
 - Direct-Routing
 - Topic-Routing
+- RPC 
